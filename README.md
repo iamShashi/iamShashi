@@ -24,9 +24,4 @@ I also Work on these Stacks.....
 <img alt="GitHub" src="https://img.shields.io/badge/-Github-blue?style=flat&color=F05032&logoColor=white&logo=Git"/>
 <img alt="Wordpress" src="https://img.shields.io/badge/-Wordpress-blue?style=flat&color=21759B&logoColor=White&logo=WordPress"/>
 <img alt="Python" src="https://img.shields.io/badge/-Python-blue?style=flat&color=3776AB&logoColor=white&logo=Python"/>
-<img alt="PHP" src="https://img.shields.io/badge/-PHP-blue?style=flat&color=764abc&logoColor=white&logo=Php"/>
-<img alt="HTML" src="https://img.shields.io/badge/-HTML5-blue?style=flat&color=e34f26&logoColor=white&logo=HTML5"/>
-<img alt="CSS3" src="https://img.shields.io/badge/-CSS3-blue?style=flat&color=1572b6&logoColor=white&logo=CSS3"/>
-<img alt="BootStrap" src="https://img.shields.io/badge/-BootStrap-blue?style=flat&color=764abc&logoColor=white&logo=BootStrap"/>
-<img alt="YouTube" src="https://img.shields.io/badge/-YouTube-Red?style=flat&color=ff0000&logoColor=white&logo=YouTube"/>
 </p>
