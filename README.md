@@ -5,6 +5,8 @@ I am Currently Working  👷 at GeoTech Info Pvt. LTd. as a developer 👨‍�
 
 
 <img alt="Angular" src="https://img.shields.io/badge/-Angular-red?style=flat&color=dd0031&logoColor=white&logo=Angular"/>
+<img alt="AngularJS" src="https://img.shields.io/badge/-AngularJS-red?style=flat&color=dd0031&logoColor=white&logo=AngularJS"/>
+<img alt="React" src="https://img.shields.io/badge/-React-blue?style=flat&color=61dafb&logoColor=white&logo=React"/>
 
 
 - 🔭 I’m currently working on ...React Angular Redux Javascript
