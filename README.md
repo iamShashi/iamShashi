@@ -1,8 +1,10 @@
 ### Hello World! 👋
 
 
-<div class="tenor-gif-embed" data-postid="13856332" data-share-method="host" data-width="100%" data-aspect-ratio="0.7922077922077922"><a href="https://tenor.com/view/arlo-hello-puppet-gif-13856332">Arlo Hello GIF</a> from <a href="https://tenor.com/search/arlo-gifs">Arlo GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+I am Currently Working  👷 at GeoTech Info Pvt. LTd. as a developer 👨‍🔧  as roles vary overtime.
 
+
+<img alt="Angular" src="https://img.shields.io/badge/Angular-Angular-red"/>
 
 
 - 🔭 I’m currently working on ...React Angular Redux Javascript
