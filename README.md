@@ -19,7 +19,7 @@ I am Currently Working  👷 at GeoTech Info Pvt. LTd. as a developer 👨‍�
 
 I also Work on these Stacks.....
 <p>
-<img alt="Rstudio" src="https://img.shields.io/badge/-R-red?style=flat&color=276DC3&logoColor=white&logo=R"/>
+<img alt="Rstudio" src="https://img.shields.io/badge/-RStudio-red?style=flat&color=276DC3&logoColor=white&logo=R"/>
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-red?style=flat&color=#007ACC&logoColor=white&logo=TypeScript"/>
 <img alt="GitHub" src="https://img.shields.io/badge/-Github-blue?style=flat&color=F05032&logoColor=white&logo=Git"/>
 <img alt="Wordpress" src="https://img.shields.io/badge/-Wordpress-blue?style=flat&color=21759B&logoColor=White&logo=WordPress"/>
