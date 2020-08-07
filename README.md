@@ -13,7 +13,7 @@ I am Currently Working  👷 at GeoTech Info Pvt. LTd. as a developer 👨‍�
 <img alt="HTML" src="https://img.shields.io/badge/-HTML5-blue?style=flat&color=e34f26&logoColor=white&logo=HTML5"/>
 <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-blue?style=flat&color=1572b6&logoColor=white&logo=CSS3"/>
 <img alt="BootStrap" src="https://img.shields.io/badge/-BootStrap-blue?style=flat&color=764abc&logoColor=white&logo=BootStrap"/>
-<img alt="YouTube" src="https://img.shields.io/badge/-Youtube-Red?style=flat&color=e34f26&logoColor=white&logo=YouTube"/>
+<img alt="YouTube" src="https://img.shields.io/badge/-Youtube-Red?style=flat&color=ff0000&logoColor=white&logo=YouTube"/>
 </p>
 
 More things to Come keep watching this Space.....
