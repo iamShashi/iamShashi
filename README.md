@@ -26,9 +26,9 @@ I also Work on these Stacks.....
 <img alt="Python" src="https://img.shields.io/badge/-Python-blue?style=flat&color=3776AB&logoColor=white&logo=Python"/>
 <img alt="C" src="https://img.shields.io/badge/-C-blue?style=flat&color=A8B9CC&logoColor=white&logo=C"/>
 <img alt="Node" src="https://img.shields.io/badge/-NodeJs-blue?style=flat&color=339933&logoColor=white&logo=Node.js"/>
-<img alt="NPM" src="https://img.shields.io/badge/-C-blue?style=flat&color=CB3837&logoColor=white&logo=NPM"/>
+<img alt="NPM" src="https://img.shields.io/badge/-NPM-blue?style=flat&color=CB3837&logoColor=white&logo=NPM"/>
 <img alt="Material Design" src="https://img.shields.io/badge/-Material Design-blue?style=flat&color=757575&logoColor=white&logo=material-design"/>
-<img alt="Font Awesome" src="https://img.shields.io/badge/-C-blue?style=flat&color=339AF0&logoColor=white&logo=font-awesome"/>
+<img alt="Font Awesome" src="https://img.shields.io/badge/-Font Awesome-blue?style=flat&color=339AF0&logoColor=white&logo=font-awesome"/>
 <img alt="Material Design Icons" src="https://img.shields.io/badge/-Material Design Icons-blue?style=flat&color=2196F3&logoColor=white&logo=material-design-icons"/>
-<img alt="Jira" src="https://img.shields.io/badge/-Jira-blue?style=flat&color=CB3837&logoColor=white&logo=jira"/>
+<img alt="Jira" src="https://img.shields.io/badge/-Jira-blue?style=flat&color=0052CC&logoColor=white&logo=jira"/>
 </p>
