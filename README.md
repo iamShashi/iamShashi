@@ -1,6 +1,9 @@
 ### Hello World! 👋
 
 
+1F601
+
+
 
 - 🔭 I’m currently working on ...React Angular Redux Javascript
 - 🌱 I’m currently learning ...
