@@ -1,13 +1,13 @@
 ### 🙋‍♂️ Hello World!! I am Shashi Chandra
 
 
-I am Currently Working  👷 at GeoTech Info Pvt. LTd. as a developer 👨‍🔧  as roles vary overtime.
+I am Currently Working  👷 at Collegedunia.com as a Senior developer 👨‍🔧  as roles vary overtime.
 
 <p>
-<img alt="Angular" src="https://img.shields.io/badge/-Angular-red?style=flat&color=dd0031&logoColor=white&logo=Angular"/>
-<img alt="AngularJS" src="https://img.shields.io/badge/-AngularJS-red?style=flat&color=dd0031&logoColor=white&logo=AngularJS"/>
 <img alt="React" src="https://img.shields.io/badge/-React-blue?style=flat&color=61dafb&logoColor=black&logo=React"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-blue?style=flat&color=72726c&logoColor=f7df1ed4&logo=Javascript"/>
+<img alt="Angular" src="https://img.shields.io/badge/-Angular-red?style=flat&color=dd0031&logoColor=white&logo=Angular"/>
+<img alt="AngularJS" src="https://img.shields.io/badge/-AngularJS-red?style=flat&color=dd0031&logoColor=white&logo=AngularJS"/>
 <img alt="Redux" src="https://img.shields.io/badge/-Redux-blue?style=flat&color=764abc&logoColor=white&logo=React"/>
 <img alt="Salesforce" src="https://img.shields.io/badge/-Salesforce-blue?style=flat&color=00A1E0&logoColor=white&logo=Salesforce"/>
 <img alt="PHP" src="https://img.shields.io/badge/-PHP-blue?style=flat&color=764abc&logoColor=white&logo=Php"/>
