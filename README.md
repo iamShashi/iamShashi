@@ -1,7 +1,7 @@
 ### 🙋‍♂️ Hello World!! I am Shashi Chandra
 
 
-I am Currently Working  👷 at Nykaa as a Senior developer 👨‍🔧  as roles vary overtime.
+I am Currently Working  👷 at Nykaa as a Senior Software developer 👨‍🔧  as roles vary overtime.
 
 <p align="center">
   <img alt="React" src="https://img.shields.io/badge/-React-61dafb?style=flat&logo=React&logoColor=black"/>
@@ -41,8 +41,30 @@ I am Currently Working  👷 at Nykaa as a Senior developer 👨‍🔧  as role
   <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/>
   <img alt="Keras" src="https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras&logoColor=white"/>
   <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/>
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=Sass&logoColor=white"/>
+  <img alt="Less" src="https://img.shields.io/badge/-Less-1D365D?style=flat&logo=Less&logoColor=white"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+  <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
+  <img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat&logo=Nuxt.js&logoColor=white"/>
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
+  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=Webpack&logoColor=black"/>
+  <img alt="Babel" src="https://img.shields.io/badge/-Babel-F9DC3E?style=flat&logo=Babel&logoColor=black"/>
+  <img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat&logo=Jest&logoColor=white"/>
+  <img alt="Mocha" src="https://img.shields.io/badge/-Mocha-8D6748?style=flat&logo=Mocha&logoColor=white"/>
+  <img alt="Chai" src="https://img.shields.io/badge/-Chai-A30701?style=flat&logo=Chai&logoColor=white"/>
+  <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=Cypress&logoColor=white"/>
+  <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-FF4785?style=flat&logo=Storybook&logoColor=white"/>
+  <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
+  <img alt="Sketch" src="https://img.shields.io/badge/-Sketch-F7B500?style=flat&logo=Sketch&logoColor=black"/>
+  <img alt="Adobe XD" src="https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat&logo=Adobe%20XD&logoColor=white"/>
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=Tailwind%20CSS&logoColor=white"/>
+  <img alt="Material-UI" src="https://img.shields.io/badge/-Material%20UI-0081CB?style=flat&logo=Material-UI&logoColor=white"/>
+  <img alt="Ant Design" src="https://img.shields.io/badge/-Ant%20Design-0170FE?style=flat&logo=Ant%20Design&logoColor=white"/>
+  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=Firebase&logoColor=black"/>
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat&logo=Heroku&logoColor=white"/>
+  <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=Netlify&logoColor=white"/>
+  <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=Vercel&logoColor=white"/>
 </p>
- 
 
 
 I also Work on these Stacks.....
