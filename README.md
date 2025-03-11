@@ -1,7 +1,7 @@
 ### 🙋‍♂️ Hello World!! I am Shashi Chandra
 
 
-I am Currently Working  👷 at Collegedunia.com as a Senior developer 👨‍🔧  as roles vary overtime.
+I am Currently Working  👷 at Nykaa as a Senior developer 👨‍🔧  as roles vary overtime.
 
 <p>
 <img alt="React" src="https://img.shields.io/badge/-React-blue?style=flat&color=61dafb&logoColor=black&logo=React"/>
